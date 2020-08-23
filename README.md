@@ -1,5 +1,7 @@
 # d-CDP
-The d-CDP MATLAB Package
+
+Discrete Conjugate Dynamic Programming (d-CDP) MATLAB Package - By M.A.S. Kolarijani & P. Mohajerin Esfahani
+
 
 *** NOTE: For a detailed description of the algorithms included in this package, please see [1]. 
 

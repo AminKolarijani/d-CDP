@@ -3,7 +3,7 @@ The d-CDP MATLAB Package
 
 *** NOTE: For a detailed description of the algorithms included in this package, please see [1]. 
 
-*** NOTE: The below steps have been already carried out for the numerical examples provided in [1]; see the content of the corresponding folders within the folder "Article Examples."
+*** NOTE: The below steps have been already carried out for the numerical examples provided in [1]; see the content of the corresponding folders.
    
 *** DISCLAIMER: The routines "LLTd.m", "bb.m", and "fusionma.m" are borrowed from the LLT MATLAB package avialable at "netlib.org/numeralgo/na13." See also [2].
 

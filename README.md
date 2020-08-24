@@ -3,9 +3,9 @@
 Discrete Conjugate Dynamic Programming (d-CDP) MATLAB Package - By M.A.S. Kolarijani & P. Mohajerin Esfahani
 
 
-*** NOTE: For a detailed description of the algorithms included in this package, please see [1]. 
+*** NOTE: See [1] for a detailed description of the algorithms included in this package. 
 
-*** NOTE: The below steps have been already carried out for the numerical examples provided in [1]; see the content of the corresponding folders.
+*** NOTE: The steps described below have been already carried out for the numerical examples provided in [1]; see the content of the corresponding folders.
    
 *** DISCLAIMER: The routines "LLTd.m", "bb.m", and "fusionma.m" are borrowed from the LLT MATLAB package avialable at "netlib.org/numeralgo/na13." See also [2].
 

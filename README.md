@@ -24,6 +24,6 @@ What to provide and how to provide it: Within the folder "MATLAB package with il
 -------------------------------
 References:
 
-[1] M.A.S. KOLARIJANI and P. MEHAJERIN ESFAHANI (2020), FAST APPROXIMATE DYNAMIC PROGRAMMING FOR INPUT-AFFINE DYNAMCIS, PREPRINT ARXIV.
+[1] M.A.S. Kolarijani and P. Mohajerin Esfahani (2020), Fast approximate dynamic programming for input-affine dynamics, preprint arXiv:2008.10362.
 
-[2] Y. LUCET (1997), FASTER THAN THE FAST LEGENDRE TRANSFORM, THE LINEAR-TIME LEGENDRE TRANSFORM, NUMERICAL ALGORITHMS, 16, PP. 171-185.
+[2] Y. Lucet (1997), Faster than fast Legendre transform, the linear-time Legendre transform, Numerical Algorithms, 16, pp. 171-185.

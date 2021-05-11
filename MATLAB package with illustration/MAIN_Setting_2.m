@@ -165,10 +165,13 @@ end
 DP_implementation = true;
 %   If "dp_implementation = true" and "Stoch == true" (i.e., the system is
 %   stochastic), then the user has the option to use the fast 
-%   approximation of the stochastic DP opearation; see Section 4.3.1 of 
+%   approximation of the stochastic DP opearation. This approximation 
+%   essentially replaces the order of expectation and extension operators
+%   in stochastic version of the d-DP algorithm by applying the standard 
+%   d-DP operator on J_w(.) = EXPECTAION[J(.+w)]; see Section 4.3.1 of 
 %   the manuscript for more details. Use the following to do so:
 if DP_implementation && Stoch
-    fast_stoch_DP = true;
+    fast_stoch_DP = false;
 end
 
 %   NOTE: Considering grid-like discretization of the state space in the
